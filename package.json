@@ -1,0 +1,16 @@
+{
+  "name": "cypress-goit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "cypress run --spec cypress/e2e/go-it"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.2.0"
+  }
+}
