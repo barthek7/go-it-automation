@@ -1,0 +1,8 @@
+# video files
+cypress/videos
+
+# screenshots
+cypress/screenshots/*
+
+# node_modules
+node_modules
